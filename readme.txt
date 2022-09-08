@@ -6,4 +6,4 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick.
 new line
 new new line
-test
+est
